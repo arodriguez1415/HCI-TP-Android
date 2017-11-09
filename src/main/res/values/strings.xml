@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="Home">Home</string>
+    <string name="Devices">Devices</string>
+    <string name="Switched">Switched On</string>
+    <string name="switched_on">SWITCHED ON</string>
+    <string name="DevicesTitle">Devices</string>
+    <string name="SwitchedOnTitle">Swtiched On</string>
+    <string name="button_create">Create</string>
+    <string name="action_favorite">action_favorite</string>
+    <string name="action_settings">action_settings</string>
+</resources>
